@@ -1,0 +1,47 @@
+---
+---
+
+@import "minima";
+
+.site-title,
+.site-title:visited {
+  font-size: 56px;
+  font-weight: 200;
+  line-height: 1.7;
+}
+
+.site-nav {
+  line-height: 26px;
+}
+
+a.page-link {
+  font-weight: 100;
+  white-space: nowrap;
+  display: inline-block;
+}
+
+.post-list h3 {
+  margin-bottom: 0.2rem;
+}
+
+.post-categories {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.post-category {
+  display: inline-block;
+  margin-right: 0.35rem;
+  margin-bottom: 0.25rem;
+  padding: 0.12rem 0.5rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: #666;
+  background: #f7f7f7;
+  border: 1px solid #e3e3e3;
+  border-radius: 999px;
+  white-space: nowrap;
+}

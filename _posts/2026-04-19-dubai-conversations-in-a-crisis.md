@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Dubai - eternal city"
+title:  "Dubai - conversations in a crisis"
 date:   2026-04-19 11:58:00 +0100
 categories: 
     - 'Interesting media consumed'
+exclude_from_home: true
 ---
 
 

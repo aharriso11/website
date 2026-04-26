@@ -1,6 +1,6 @@
 ---
 id: 333
-title: 'The New Pornographers &#8211; The Laws Have Changed'
+title: 'The New Pornographers - The Laws Have Changed'
 date: '2026-02-09T22:11:20+00:00'
 author: Andrew
 excerpt: ''

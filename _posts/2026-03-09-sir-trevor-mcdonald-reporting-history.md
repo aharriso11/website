@@ -10,6 +10,7 @@ permalink: /2026/03/09/sir-trevor-mcdonald-reporting-history/
 categories:
     - 'Interesting media consumed'
 format: false
+exclude_from_home: true
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">https://www.youtube.com/watch?v=qHp6DXXn3ZY </div></figure>

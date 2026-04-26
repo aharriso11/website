@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Andrew Harrison’s internet homepage. It is chiefly about my personal interests as opposed to my work, but that’s not to say that some work related matters won’t creep in here from time to time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: andrewjhaz
+flickr_username: andrewjhaz
 github_username:  aharriso11
 
 # Build settings
@@ -33,6 +33,21 @@ plugins:
   - jekyll-feed
   - jekyll-linkpreview
 permalink: /:title
+
+header_pages:
+  - about.markdown
+  - categories/days-out.md
+  - blogs-i-like.md
+  - weather.md
+  - curry-houses.md
+  - favourite-curry-recipes.md
+  - categories/music-i-like.md
+  - categories/interesting-media-consumed.md
+  - harrison-family-research.md
+  - links.md
+
+minima:
+  date_format: "%-d %B %Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

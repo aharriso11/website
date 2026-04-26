@@ -9,6 +9,7 @@ guid: 'https://www.ajharrison.org.uk/?p=301'
 permalink: /2025/10/23/a-two-curry-day/
 categories:
     - Curry
+    - "Days out"
 format: false
 ---
 

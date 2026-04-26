@@ -8,7 +8,10 @@ layout: page
 guid: 'https://www.ajharrison.org.uk/?page_id=43'
 ---
 
-<figure class="wp-block-image size-large is-style-default">![](/wp-content/uploads/2023/12/IMG_0836-1024x768.jpg)<figcaption class="wp-element-caption">The Prince Albert public house in Roman Road, Bow</figcaption></figure>## Background
+![](/wp-content/uploads/2023/12/IMG_0836-1024x768.jpg)
+*The Prince Albert public house in Roman Road, Bow*
+
+## Background
 
 In the course of my family research I have concentrated solely on my paternal line. My maternal line has already been well researched by other family members, and there is much of interest in my paternal line that has yet to be discovered in records distributed across the UK, Germany, Poland and Australia. Prior to the advent of the internet this made research extremely difficult. Thankfully the archive services in all four countries have done much to digitise their catalogues and records to enable significant research to be carried out from home.
 

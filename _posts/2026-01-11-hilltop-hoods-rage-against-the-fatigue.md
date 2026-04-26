@@ -1,6 +1,6 @@
 ---
 id: 324
-title: 'Hilltop Hoods &#8211; Rage Against The Fatigue'
+title: 'Hilltop Hoods - Rage Against The Fatigue'
 date: '2026-01-11T12:26:55+00:00'
 author: Andrew
 excerpt: ''

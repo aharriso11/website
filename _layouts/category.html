@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Category: {{ page.category }}</h1>
+
+  {% assign posts_in_category = site.posts | where_exp: "post", "post.categories contains page.category" %}
+
+  {% if posts_in_category.size > 0 %}
+    <ul class="post-list">
+      {% for post in posts_in_category %}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+
+          {% if site.show_excerpts %}
+            {{ post.excerpt }}
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No posts found in this category.</p>
+  {% endif %}
+</div>

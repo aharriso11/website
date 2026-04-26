@@ -10,6 +10,7 @@ permalink: /2026/03/12/why-atms-didnt-kill-bank-teller-jobs-but-the-iphone-did/
 categories:
     - 'Interesting media consumed'
 format: false
+exclude_from_home: true
 ---
 
 {% linkpreview "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller" %}

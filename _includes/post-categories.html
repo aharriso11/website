@@ -1,0 +1,10 @@
+{% assign categories = page.categories %}
+{% if categories and categories != empty %}
+  <p class="post-meta">
+    Categories:
+    {% for category in categories %}
+      {% capture category_url %}/categories/{{ category | slugify }}/{% endcapture %}
+      <a href="{{ category_url | relative_url }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}

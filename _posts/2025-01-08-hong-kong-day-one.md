@@ -10,6 +10,7 @@ permalink: /2025/01/08/hong-kong-day-one/
 categories:
     - Blog
     - 'Days out'
+    - 'Hong Kong'
 format: false
 ---
 
