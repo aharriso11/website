@@ -13,7 +13,7 @@ categories:
 format: false
 ---
 
-It was earlier in the week that I identified that Friday had the potential to be a *two-curry day*. Everything hinged on getting into London reasonably early in the afternoon, and managing to restrain the compulsion to dine until my arrival at a *favoured destination*. I decided to put my appetite in the hands of the road gods, and see what may or may not be possible.
+It was earlier in the week that I identified that Friday had the potential to be a *two-curry day*. Everything hinged on getting into London reasonably early in the afternoon, and managing to restrain the compulsion to dine until my arrival at my first curry venue. I decided to put my appetite in the hands of the road gods, and see what may or may not be possible.
 
 ## First curry: Indian Veg
 
