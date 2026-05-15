@@ -5,7 +5,7 @@ excerpt: ''
 layout: page
 ---
 
-Some links to websites and other online resources I use or find interesting. I have other sets of links to [weather](weather.md) and [family history research](harrison-family-research.md) on dedicated pages.
+Some links to websites and other online resources I use or find interesting. I have other sets of links to [weather](weather.md), [family history research](harrison-family-research.md) and [blogs I read regularly](blogs-i-like.md) on dedicated pages.
 
 # Transport
 - [London bus headway monitor](https://headway.plumby.io/)
@@ -20,6 +20,7 @@ Some links to websites and other online resources I use or find interesting. I h
 - [Portwatch](https://portwatch.imf.org/) - monitoring trade disruptions from space
 - [GB renewables map](https://renewables-map.robinhawkes.com/)
 - [Gridwatch](https://gridwatch.co.uk/)
+- [Open infrastructure map](https://openinframap.org/)
 
 # Maps
 - [Systematic Maps - OS](https://www.sysmaps.co.uk/sysmaps_os.html) - an easy (and free) way to see Ordnance Survey maps online
