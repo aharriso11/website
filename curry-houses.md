@@ -17,6 +17,7 @@ I *love* curry - chiefly eating it but also talking about it, very occasionally 
 - [A two-curry day](/2025/10/23/a-two-curry-day/)
 - [No Frillingdon](/2024/10/09/no-frillingdon/)
 - [Smile, it's Afghan curry time](/2023/12/26/smile-its-afghan-curry-time/)
+- [Things I Needoo](/things-i-needoo/)
 
 # London
 
