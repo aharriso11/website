@@ -23,16 +23,46 @@ I sat alone in the red room, the noise from the separate party continuing to flo
 
 Here was an impressive plate of food. There was oil (as there ought to be in *karahi*), there was a decent amount of meat, there was an impressively dark *masala*, and there was a sprinling of foliage on the top. I began to tuck in. The spice and the seasoning of the masala was just to my taste, the lamb pleasingly tender and giving of spice. Potato was also in abundance, having absorbed much of the flavour around it. This tasted authentic, and ever so slightly old-fashioned. I loved it.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/55374275080/in/dateposted-public/" title="Karahi aloo gosht at Needoo Grill, Whitechapel"><img src="https://live.staticflickr.com/65535/55374275080_5eea07994f_c.jpg" width="800" height="600" alt="Karahi aloo gosht at Needoo Grill, Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo"
+   href="https://www.flickr.com/photos/andrewjhaz/55374275080/in/dateposted-public/"
+   title="Karahi aloo gosht at Needoo Grill, Whitechapel">
+  <img src="https://live.staticflickr.com/65535/55374275080_5eea07994f_c.jpg"
+       width="800"
+       height="600"
+       alt="Karahi aloo gosht at Needoo Grill, Whitechapel">
+</a>
 
 The daal had similarly visible oil and a slightly earthy taste, with lentils aplenty and a colour at variance from what is usually found. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/55372924207/in/dateposted-public/" title="Tarka dhal at Needoo Grill, Whitechapel"><img src="https://live.staticflickr.com/65535/55372924207_1360e78429_c.jpg" width="800" height="600" alt="Tarka dhal at Needoo Grill, Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo"
+   href="https://www.flickr.com/photos/andrewjhaz/55372924207/in/dateposted-public/"
+   title="Tarka dhal at Needoo Grill, Whitechapel">
+  <img src="https://live.staticflickr.com/65535/55372924207_1360e78429_c.jpg"
+       width="800"
+       height="600"
+       alt="Tarka dhal at Needoo Grill, Whitechapel">
+</a>
 
 The naan and the lassi did just what they needed to do.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/55372924362/in/dateposted-public/" title="Garlic naan at Needoo Grill Whitechapel"><img src="https://live.staticflickr.com/65535/55372924362_448a6fe428_c.jpg" width="800" height="600" alt="Garlic naan at Needoo Grill Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo"
+   href="https://www.flickr.com/photos/andrewjhaz/55372924362/in/dateposted-public/"
+   title="Garlic naan at Needoo Grill, Whitechapel">
+  <img src="https://live.staticflickr.com/65535/55372924362_448a6fe428_c.jpg"
+       width="800"
+       height="600"
+       alt="Garlic naan at Needoo Grill, Whitechapel">
+</a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/55374052774/in/dateposted-public/" title="Zeera lassi at Needoo Grill, Whitechapel"><img src="https://live.staticflickr.com/65535/55374052774_2ee6956d92_c.jpg" width="800" height="600" alt="Zeera lassi at Needoo Grill, Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a class="flickr-photo"
+   href="https://www.flickr.com/photos/andrewjhaz/55374052774/in/dateposted-public/"
+   title="Zeera lassi at Needoo Grill, Whitechapel">
+  <img src="https://live.staticflickr.com/65535/55374052774_2ee6956d92_c.jpg"
+       width="800"
+       height="600"
+       alt="Zeera lassi at Needoo Grill, Whitechapel">
+</a>
 
 The bill for all this came to £35.36. I waddled away a very happy boy indeed.

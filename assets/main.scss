@@ -45,3 +45,16 @@ a.page-link {
   border-radius: 999px;
   white-space: nowrap;
 }
+
+.flickr-photo {
+    display: block;
+    max-width: 100%;
+    line-height: 0;
+}
+
+.flickr-photo img {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
