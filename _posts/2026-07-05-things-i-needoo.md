@@ -54,8 +54,6 @@ The naan and the lassi did just what they needed to do.
        alt="Garlic naan at Needoo Grill, Whitechapel">
 </a>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/55374052774/in/dateposted-public/" title="Zeera lassi at Needoo Grill, Whitechapel"><img src="https://live.staticflickr.com/65535/55374052774_2ee6956d92_c.jpg" width="800" height="600" alt="Zeera lassi at Needoo Grill, Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a class="flickr-photo"
    href="https://www.flickr.com/photos/andrewjhaz/55374052774/in/dateposted-public/"
    title="Zeera lassi at Needoo Grill, Whitechapel">
