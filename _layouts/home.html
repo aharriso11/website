@@ -2,43 +2,52 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<div class="home-grid">
+  <main class="home-main">
+    {{ content }}
 
-  {{ content }}
+    <h2>Recent blog posts</h2>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      {% unless post.exclude_from_home %}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }} 
-        </span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-  {% if post.categories and post.categories != empty %}
-    <p class="post-categories">
-      {% for category in post.categories %}
-        <span class="post-category">{{ category }}</span>{% unless forloop.last %} {% endunless %}
-      {% endfor %}
+    {% assign blog_posts = site.categories.Blog %}
+
+    {% if blog_posts %}
+      <ul class="post-list">
+        {% for post in blog_posts limit: 5 %}
+          <li>
+            <span class="post-meta">
+              {{ post.date | date: "%-d %B %Y" }}
+            </span>
+
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+
+            <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <p>
+        <a href="{{ "/blog/" | relative_url }}">View all blog posts →</a>
+      </p>
+    {% else %}
+      <p>No blog posts have been published yet.</p>
+    {% endif %}
+  </main>
+
+  <aside class="home-sidebar">
+    <h2>About this site</h2>
+    <p>
+This is Andrew Harrison's internet homepage. It is chiefly about my personal interests as opposed to my work, but that's not to say that some work related matters won't creep in here from time to time.
     </p>
-  {% endif %}
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {% endunless %}
-      {%- endfor -%}
+
+    <h2>Browse</h2>
+    <ul>
+      <li><a href="{{ "/blog/" | relative_url }}">Blog</a></li>
+      <li><a href="{{ "/about/" | relative_url }}">About</a></li>
+      <li><a href="{{ "/feed.xml" | relative_url }}">RSS feed</a></li>
     </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
+  </aside>
 </div>
