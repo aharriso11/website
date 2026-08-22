@@ -14,10 +14,11 @@ I *love* curry - chiefly eating it but also talking about it, very occasionally 
 
 ## Blog posts about curry
 
+- [Things I Needoo](/things-i-needoo/)
+- [Curry in Hong Kong](/hong-kong-2026-day-two)
 - [A two-curry day](/2025/10/23/a-two-curry-day/)
 - [No Frillingdon](/2024/10/09/no-frillingdon/)
 - [Smile, it's Afghan curry time](/2023/12/26/smile-its-afghan-curry-time/)
-- [Things I Needoo](/things-i-needoo/)
 
 # London
 
@@ -25,38 +26,40 @@ I *love* curry - chiefly eating it but also talking about it, very occasionally 
 
 *2-10 Umberston Street, London E1 1PY*
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53209493087/in/album-72177720311445769/" title="Lahore Kebab House, Whitechapel"><img src="https://live.staticflickr.com/65535/53209493087_a7de5104e6_c.jpg" width="800" height="600" alt="Lahore Kebab House, Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+**Lahore Kebab House may be closed - farewell old friend**
+
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53209493087/in/album-72177720311445769/" title="Lahore Kebab House, Whitechapel"><img src="https://live.staticflickr.com/65535/53209493087_a7de5104e6_c.jpg" width="800" height="600" alt="Lahore Kebab House, Whitechapel"/></a>
 At the mention of curry in east London, one’s mind is drawn inevitably to the restaurants of Brick Lane. I tend to eschew these establishments with their touts and their deals involving indecently expensive poppadoms as better food is easily found elsewhere, and none more easily than at Lahore Kebab House with its brightly lit frontage right on the Commercial Road a short walk away.
 
 This is a distinctly unfussy establishment, with two large dining rooms and occasionally chaotic service catering to the whole spectrum of late evening diners. A view straight into the open kitchen greets the arriving curry-hound, who will be led to a bare table containing laminated menus. If you turn up with booze from the next-door off licence (for this is a BYO establishment) a bottle opener will usually be provided although you may have to go hunting for this. Large screen televisions relay *desi* tv and, more often than not, cricket.
 
 The service is brisk and somewhat casual which is not inappropriate in the setting, and food ordered has a tendency to arrive with some haste.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53210370891/in/album-72177720311445769/" title="Dry lamb curry at Lahore Kebab House"><img src="https://live.staticflickr.com/65535/53210370891_df28e14cde_c.jpg" width="800" height="600" alt="Dry lamb curry at Lahore Kebab House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53210370891/in/album-72177720311445769/" title="Dry lamb curry at Lahore Kebab House"><img src="https://live.staticflickr.com/65535/53210370891_df28e14cde_c.jpg" width="800" height="600" alt="Dry lamb curry at Lahore Kebab House"/></a>
 *Dry lamb, pilau rice, butter naan, tarka dhal.* 
 
 LKH is rightly known for its *dry lamb*, which delivers a flavourful yet intense spice blast with minimal masala, as befits the name. I have lost count of the number of times I have enjoyed this dish here.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/54944232869/in/datetaken-public/" title="Dry lamb curry at Lahore Kebab House"><img src="https://live.staticflickr.com/65535/54944232869_2e2e335d1b_c.jpg" width="800" height="600" alt="Dry lamb curry at Lahore Kebab House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/54944232869/in/datetaken-public/" title="Dry lamb curry at Lahore Kebab House"><img src="https://live.staticflickr.com/65535/54944232869_2e2e335d1b_c.jpg" width="800" height="600" alt="Dry lamb curry at Lahore Kebab House"/></a>
 
 I always suspect the tarka dhal served here needs more salt, but am reluctant to add any as I know it’s bad for me.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/54943972986/in/datetaken-public/" title="Tarka daal at Lahore Kebab House"><img src="https://live.staticflickr.com/65535/54943972986_57e1768dbf_c.jpg" width="800" height="600" alt="Tarka daal at Lahore Kebab House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/54943972986/in/datetaken-public/" title="Tarka daal at Lahore Kebab House"><img src="https://live.staticflickr.com/65535/54943972986_57e1768dbf_c.jpg" width="800" height="600" alt="Tarka daal at Lahore Kebab House"/></a>
 *Tarka dhal*
 
 The butter naan is always a delight and requires numerous serviettes (which you often have to ask for) to consume with any degree of decency.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53210675333/in/album-72177720311445769/" title="Keema curry at Lahore Kebab House, Whitechapel"><img src="https://live.staticflickr.com/65535/53210675333_351130ed4a_c.jpg" width="800" height="600" alt="Keema curry at Lahore Kebab House, Whitechapel"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53210675333/in/album-72177720311445769/" title="Keema curry at Lahore Kebab House, Whitechapel"><img src="https://live.staticflickr.com/65535/53210675333_351130ed4a_c.jpg" width="800" height="600" alt="Keema curry at Lahore Kebab House, Whitechapel"/></a>
 This keema was served bone dry with little oil present and accompanied by a potato. This was an excellent keema, but I know [other diners have not always been so lucky](https://curry-heute.com/2021/07/13/whitechapel-lahore-kebab-house-once-upon-a-time/). Given the churn of this place I suspect experiences can vary, but it is a favourite and I shall never be put off from returning.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53731598464" title="Karahi Ghosht"><img src="https://live.staticflickr.com/65535/53731598464_e3da0ac100_c.jpg" width="800" height="600" alt="Karahi Ghosht"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53731598464" title="Karahi Ghosht"><img src="https://live.staticflickr.com/65535/53731598464_e3da0ac100_c.jpg" width="800" height="600" alt="Karahi Ghosht"/></a>
 The *karahi gosht* delivers a spice blast, a little more moist than the dry lamb but with the same tender and well seasoned meat. To help with my five-a-day I have begun to enjoy the saag aloo a little more than the dhal, not least as it seems to be better seasoned.
 
 ## Halal Restaurant
 
 *2 St Mark Street, London E1 8DJ*
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53216454133/" title="Halal Restaurant, Aldgate"><img src="https://live.staticflickr.com/65535/53216454133_a8bba29f2b_c.jpg" width="800" height="600" alt="Halal Restaurant, Aldgate"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53216454133/" title="Halal Restaurant, Aldgate"><img src="https://live.staticflickr.com/65535/53216454133_a8bba29f2b_c.jpg" width="800" height="600" alt="Halal Restaurant, Aldgate"/></a>
 This Aldgate stalwart has been around for a long time. Not quite as old as Britain’s oldest Indian restaurant Veeraswamy, it celebrated its eightieth birthday in 2019 making it surely the oldest curry house in the east end.
 
 Largely dependent on city trade, the reopening after the first covid lockdown was not kind to them with city folk staying away from their offices. A tweet from the proprietor’s daughter went viral:
@@ -68,13 +71,13 @@ Largely dependent on city trade, the reopening after the first covid lockdown wa
 
 *7B-7C St George's Circus, London SE1 6HS*
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53210677203/in/album-72177720311445769/" title="Chillies Tandoori, Lambeth"><img src="https://live.staticflickr.com/65535/53210677203_cae9d4b4d2_c.jpg" width="800" height="600" alt="Chillies Tandoori, Lambeth"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53210677203/in/album-72177720311445769/" title="Chillies Tandoori, Lambeth"><img src="https://live.staticflickr.com/65535/53210677203_cae9d4b4d2_c.jpg" width="800" height="600" alt="Chillies Tandoori, Lambeth"/></a>
 The chief attraction of Chillies has always been its late hours over and above the reasonably serviceable fare. A change in ownership has produced a new menu and, on my last visit, an enjoyable *murgh charsi karahi*.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/54637018201/in/album-72177720311445769" title="Chillies Grill (7B St George&#x27;s Circus SE1 6HS)"><img src="https://live.staticflickr.com/65535/54637018201_accb64e114_c.jpg" width="800" height="600" alt="Chillies Grill (7B St George&#x27;s Circus SE1 6HS)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/54637018201/in/album-72177720311445769" title="Chillies Grill (7B St George&#x27;s Circus SE1 6HS)"><img src="https://live.staticflickr.com/65535/54637018201_accb64e114_c.jpg" width="800" height="600" alt="Chillies Grill (7B St George&#x27;s Circus SE1 6HS)"/></a>
 *Murgh charsi karahi*
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53210678393/in/album-72177720311445769/" title="Lamb Karahi at Chillies Tandoori, Lambeth"><img src="https://live.staticflickr.com/65535/53210678393_d310f30a01_c.jpg" width="800" height="600" alt="Lamb Karahi at Chillies Tandoori, Lambeth"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53210678393/in/album-72177720311445769/" title="Lamb Karahi at Chillies Tandoori, Lambeth"><img src="https://live.staticflickr.com/65535/53210678393_d310f30a01_c.jpg" width="800" height="600" alt="Lamb Karahi at Chillies Tandoori, Lambeth"/></a>
 *A lamb karahi as served under the previous ownership*
 
 ## Gopal's of Soho
@@ -84,7 +87,7 @@ The chief attraction of Chillies has always been its late hours over and above t
 ![](/wp-content/uploads/2025/10/img_8939-scaled.jpg)
 Gopal's tacks slightly more towards the mainstream than the other establishments featured on this page, but that's no bad thing and it keeps agreeable hours for those fans of later dining.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53210879500/in/album-72177720311445769/" title="Keema curry at Gopal&#x27;s of Soho"><img src="https://live.staticflickr.com/65535/53210879500_384c7cf0a3_c.jpg" width="800" height="600" alt="Keema curry at Gopal&#x27;s of Soho"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53210879500/in/album-72177720311445769/" title="Keema curry at Gopal&#x27;s of Soho"><img src="https://live.staticflickr.com/65535/53210879500_384c7cf0a3_c.jpg" width="800" height="600" alt="Keema curry at Gopal&#x27;s of Soho"/></a>
 
 ## Watan, Tooting
 
@@ -99,10 +102,10 @@ On my three visits there I've ordered the same thing - karahi gosht, tarka dhal 
 
 Watan also offer a charsi lamb karahi, by the kilo or half kilo. This is perhaps too much for a solo diner, so my goal must be to assemble a party to *do the kilo*. It will be a worthwhile endeavour.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53654629145" title="A collage of the excellent meal I experienced at Watan Restaurant, 180 Upper Tooting Road, SW17 7EW"><img src="https://live.staticflickr.com/65535/53654629145_40a66e82e4_c.jpg" width="800" height="800" alt="A collage of the excellent meal I experienced at Watan Restaurant, 180 Upper Tooting Road, SW17 7EW"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53654629145" title="A collage of the excellent meal I experienced at Watan Restaurant, 180 Upper Tooting Road, SW17 7EW"><img src="https://live.staticflickr.com/65535/53654629145_40a66e82e4_c.jpg" width="800" height="800" alt="A collage of the excellent meal I experienced at Watan Restaurant, 180 Upper Tooting Road, SW17 7EW"/></a>
 *A photo collage of my first visit to Watan.*
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/54017240218" title="A second visit to Watan"><img src="https://live.staticflickr.com/65535/54017240218_e3cf32b331_c.jpg" width="800" height="524" alt="A second visit to Watan"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/54017240218" title="A second visit to Watan"><img src="https://live.staticflickr.com/65535/54017240218_e3cf32b331_c.jpg" width="800" height="524" alt="A second visit to Watan"/></a>
 *A record of my second visit to Watan*
 
 ## Namkeen, Tooting
@@ -111,7 +114,7 @@ Watan also offer a charsi lamb karahi, by the kilo or half kilo. This is perhaps
 
 Rather boringly, on both the occasions I've wandered into Namkeen I've enjoyed the same two dishes - on-the-bone lamb karahi and the special tarka daal. If you and a friend fancy a charsi karahi or a butt karahi there are various menu options to *do the kilo*; alas, I've been solo on each visit.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/54447173076/in/album-72177720311445769/" title="Lamb karahi at Namkeen, Tooting"><img src="https://live.staticflickr.com/65535/54447173076_c5385e60cd_c.jpg" width="800" height="600" alt="Lamb karahi at Namkeen, Tooting"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/54447173076/in/album-72177720311445769/" title="Lamb karahi at Namkeen, Tooting"><img src="https://live.staticflickr.com/65535/54447173076_c5385e60cd_c.jpg" width="800" height="600" alt="Lamb karahi at Namkeen, Tooting"/></a>
 
 # Lisbon
 
@@ -123,6 +126,6 @@ If you find yourself at a loose end in Lisbon's Praça Martim Moniz, ignore the 
 
 Tall buildings crowd the narrow street, and people move with purpose between the shops, restaurants and other businesses as the road plots its slightly scruffy course between the multi-ethnic communities of Martim Moniz and Intendente. It is a chaotic mile of ethnic shops, barber shops and curry cafés. And within the chaos, you shall find *Radhuni*.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewjhaz/53698265813" title="Radhuni, Lisbon"><img src="https://live.staticflickr.com/65535/53698265813_b3d610a49f_c.jpg" width="800" height="600" alt="Radhuni, Lisbon"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/53698265813" title="Radhuni, Lisbon"><img src="https://live.staticflickr.com/65535/53698265813_b3d610a49f_c.jpg" width="800" height="600" alt="Radhuni, Lisbon"/></a>
 
 The *lamb karahi* contains large pieces of meat, some on the bone, within a thick masala sauce. The spice level, and the seasoning are spot on. I enjoyed Radhuni so much I returned for a second visit the day after, to the exclusion of the many other tempting establishments nearby. I must remedy this on future visits to Lisbon.
