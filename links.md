@@ -30,6 +30,10 @@ Some links to websites and other online resources I use or find interesting. I h
 - [Subterranea Britannica](https://www.subbrit.org.uk/)
 - [Mendip Cave Registry](https://www.mcra.org.uk/registry/index.php)
 
+# IT security
+- [The Risks Digest](https://catless.ncl.ac.uk/Risks/)
+- [Blacklight](https://themarkup.org/blacklight)
+
 # Food
 - [An oral history of Wong Kei, a Chinatown hero](https://www.timeout.com/london/news/like-an-old-auntie-we-should-probably-visit-more-an-oral-history-of-wong-kei-a-chinatown-hero-012925)
 - [The last restaurant in Chinatown](https://www.vittlesmagazine.com/p/the-last-restaurant-in-chinatown)
