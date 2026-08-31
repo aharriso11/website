@@ -73,5 +73,3 @@ The daal is similarly silky (how *do* they do that?) and adorned with a bullet c
 <a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/55497914721/in/dateposted-public/" title="Garlic naan at Needoo Grill, Whitechapel"><img src="https://live.staticflickr.com/65535/55497914721_9393d66aeb_c.jpg" width="800" height="600" alt="Garlic naan at Needoo Grill, Whitechapel"/></a>
 
 The garlic naan is well-fired and a more than adequate conveyance for the meat, the masala, and the daal. Salty lassi for refreshment. I am in my happy place.
-
-<a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/55497915161/in/dateposted-public/" title="At Mousetail Coffee"><img src="https://live.staticflickr.com/65535/55497915161_9c21965ba8_c.jpg" width="800" height="600" alt="At Mousetail Coffee"/></a>
