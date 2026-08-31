@@ -10,7 +10,7 @@ categories:
 
 <a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/55498075499/in/dateposted-public/" title="Andrewes House"><img src="https://live.staticflickr.com/65535/55498075499_f4cea0f47f_c.jpg" width="600" height="800" alt="Andrewes House"/></a>
 
-The architecture of the Barbican is a bit divisive - some people (me, for instance) enjoy the clarity of vision in its design, the amount of thought that went into little architectural details like the upsweep of the balconies on its tower blocks, the painstakingly jackhammered distressing of some of the concrete, the lighting, the tiling and so on. For a lot of people its intentionally inward looking architecture and the circuitous design of its highwalks makes it impenetrable and disorientating. But it'd be boring if we were all the same.
+The architecture of the Barbican is a bit divisive - some people (me, for instance) enjoy the clarity of vision in its design, the amount of thought that went into little architectural details like the upsweep of the balconies on its tower blocks, the painstakingly jackhammered distressing of some of the concrete, the lighting, the tiling and so on. For a lot of people its intentionally inward looking architecture and the circuitous design of its [highwalks](https://diamondgeezer.blogspot.com/2017/10/pedways-of-city-of-london.html) makes it impenetrable and disorientating. But it'd be boring if we were all the same.
 
 <a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/55498014198/in/dateposted-public/" title="Towards Seddon House"><img src="https://live.staticflickr.com/65535/55498014198_9e2819aab8_c.jpg" width="800" height="600" alt="Towards Seddon House"/></a>
 
@@ -28,7 +28,7 @@ I left the group to it, and wandered out of the centre onto the highwalk towards
 
 <a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/55498012258/in/dateposted-public/" title="The Barbican Muse"><img src="https://live.staticflickr.com/65535/55498012258_3a52b22f56_c.jpg" width="800" height="600" alt="The Barbican Muse"/></a>
 
-I walk on, snapping merrily away. My visit to the Barbican ends high above Aldersgate Street, looking across at [Slough House]. Which gave me an idea for a pub crawl.
+I walk on, snapping merrily away. My visit to the Barbican ends high above Aldersgate Street, looking across at [Slough House](https://spywrite.com/2021/02/24/where-is-slough-house-located/). Which gave me an idea for a pub crawl.
 
 <a class="flickr-photo" href="https://www.flickr.com/photos/andrewjhaz/55498294110/in/dateposted-public/" title="Gilbert Bridge"><img src="https://live.staticflickr.com/65535/55498294110_617837c8a0_c.jpg" width="800" height="452" alt="Gilbert Bridge"/></a>
 
