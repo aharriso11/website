@@ -7,6 +7,9 @@ layout: page
 
 Some links to websites and other online resources I use or find interesting. I have other sets of links to [weather](weather.md), [family history research](harrison-family-research.md) and [blogs I read regularly](blogs-i-like.md) on dedicated pages.
 
+# Me elsewhere
+I am not very good at maintaining a social media presence, my most regular contribution to the online discourse being the upload of photos to [Flickr](https://www.flickr.com/photos/andrewjhaz/), [Foto](https://the.fotoapp.co/andrewjhaz) and (much less often) [Instagram](https://www.instagram.com/andrewjhaz/).
+
 # Transport
 - [London bus headway monitor](https://headway.plumby.io/)
 - [London bus route explorer](https://route-mapster.vercel.app/)
@@ -37,3 +40,6 @@ Some links to websites and other online resources I use or find interesting. I h
 # Food
 - [An oral history of Wong Kei, a Chinatown hero](https://www.timeout.com/london/news/like-an-old-auntie-we-should-probably-visit-more-an-oral-history-of-wong-kei-a-chinatown-hero-012925)
 - [The last restaurant in Chinatown](https://www.vittlesmagazine.com/p/the-last-restaurant-in-chinatown)
+
+# The Isle and Royal Manor of Portland
+- [Exploring Portland](https://archive.portlandmuseum.co.uk/Portland/) - this excellent site, maintained for many years bu Geoff Kirby, has been archived and preserved by the wonderful people at [Portland Museum](https://portlandmuseum.co.uk/)
